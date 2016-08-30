@@ -1,0 +1,28 @@
+item.spawneez.soulDNA.name=ДНК %s
+item.spawneez.soulZygote.name=Зигота %s
+
+item.spawneez.spawnerEgg.name=%s Яйцо спавна
+item.spawneez.soulCollector.name=Сборщик душ
+item.spawneez.cageCollector.name=Сборщик клеток
+item.spawneez.soulSpade.name=Копатель душ
+item.spawneez.soulHoe.name=Выращиватель душ
+item.spawneez.soulAxe.name=Рубильник душ
+item.spawneez.soulFood.name=Жаренное с тонкими ломтиками лимона мясо души
+item.spawneez.soulMeal.name=Запеченное яблочко со вкусной начинкой души
+
+item.spawneez.soulHelmet.name=Королевский шлем духов
+item.spawneez.soulChestPlate.name=Душевный мускулистый нагрудник
+item.spawneez.soulLeggings.name=Душевные трусы для увеличения пениса
+item.spawneez.soulBoots.name=Духовный сапог скорохода
+
+item.spawneez.soulDust.name=Душевная пыль
+item.spawneez.soulIngot.name=Душевный слиток
+
+tile.spawneez.soulCage.name=Пустая клетка жизни
+tile.spawneez.soulGrinder.name=Перемалыватель душ
+
+itemGroup.spawneez.tab=Spawneez
+
+
+death.attack.soul=%1$s отсосали душ.
+death.attack.soul.player=%1$s отсосали душ во время драки %2$s.

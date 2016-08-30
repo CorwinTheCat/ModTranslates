@@ -1,0 +1,44 @@
+#Russian Language File (by CorwinTheCat)
+#Русская локализация (от CorwinTheCat)
+
+#Blocks
+tile.teslamodularsolars.blocksolarpanel.name=Солнечная панель
+tile.teslamodularsolars.blocktitanium.name=Блок титана
+tile.teslamodularsolars.blocktitaniumore.name=Титановая руда
+
+#Items
+item.teslamodularsolars.itemcapacityupgradet1.name=Улучшение (Хранилище 1)
+item.teslamodularsolars.itemcapacityupgradet2.name=Улучшение (Хранилище 2)
+item.teslamodularsolars.itemcapacityupgradet3.name=Улучшение (Хранилище 3)
+item.teslamodularsolars.itemgenerateupgradet1.name=Улучшение (Генерация 1)
+item.teslamodularsolars.itemgenerateupgradet2.name=Улучшение (Генерация 2)
+item.teslamodularsolars.itemgenerateupgradet3.name=Улучшение (Генерация 3)
+item.teslamodularsolars.itemtransferupgradet1.name=Улучшение (Передача 1)
+item.teslamodularsolars.itemtransferupgradet2.name=Улучшение (Передача 2)
+item.teslamodularsolars.itemtransferupgradet3.name=Улучшение (Передача 3)
+item.teslamodularsolars.itemtitaniumingot.name=Титановый слиток
+item.teslamodularsolars.itemtitaniumdust.name=Титановая пыль
+item.teslamodularsolars.itemtitaniumplate.name=Титановая пластина
+item.teslamodularsolars.itemglassplate.name=Стеклотитановая панель
+item.teslamodularsolars.itemsolarcell.name=Ячейка солнечной панели
+item.teslamodularsolars.itemsolarcircuit.name=Материнская плата с сокетом 375
+item.teslamodularsolars.itemsolarbase.name=База солнечной панели
+
+#Tools
+item.teslamodularsolars.itemtitaniumsword.name=Титановый меч
+item.teslamodularsolars.itemtitaniumpickaxe.name=Титановая кирка
+item.teslamodularsolars.itemtitaniumaxe.name=Титановый топор
+item.teslamodularsolars.itemtitaniumhoe.name=Титановая мотыга :)
+item.teslamodularsolars.itemtitaniumspade.name=Титановый лопать
+#Armour
+item.teslamodularsolars.itemtitaniumhelmet.name=Титановый шлем
+item.teslamodularsolars.itemtitaniumchestplate.name=Титановый нагрудник
+item.teslamodularsolars.itemtitaniumleggings.name=Титановые трусы
+item.teslamodularsolars.itemtitaniumboots.name=Титановые сапоги
+
+#Tabs
+itemGroup.ModularSolars.tab=Tesla Modular Solars (RUS)
+
+
+#Message
+message.teslamodularsolars.blocksolarpanel.status=Запас: %dT/%dT. Выработка %dT в тик. Передача: %dT
